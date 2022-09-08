@@ -1,4 +1,4 @@
-# Capitulo 1
+# Capitolo 1
 
 **IT:**
 
@@ -159,9 +159,15 @@ Leggete questo brano, poi rispondete alle domande.
 
 Μακρός ἐστιν ὁ πόνος καὶ χαλεπός. Ὁ δὲ αὐτουργὸς οὐκ ὀκνεῖ ἀλλ'ἀεὶ γεωργεῖ τὸν κλῆρον. Καλὸς γάρ ἐστιν ὁ κλῆρος καὶ πολύν σῖτον παρέχει. Χαίρει οὖν ὁ ἂνθρωπος· ἰσχῡρὸσ γάρ ἐστι καὶ οὐ πολλάκις κάμνει.
 
-1. Che fa il nostro uomo ora? Che fa sempre?
-1. Che fornisce il podere?
-1. Perché il nostro uomo si rallegra?
+1. Che fa il nostro uomo ora?  
+   **Ὁ Δικαιόπολις αὐθουργός ἐστιν.**  
+   **Ὁ Δικαιόπολις ἑστιν αὐθουργός.**
+1. Che fa sempre?  
+   **Ἀεὶ γεωργεῖ τὸν κλῆρον.**
+1. Che fornisce il podere?  
+   **Ὁ κλῆρος πολὺν σῖτον παρέχει.**
+1. Perché il nostro uomo si rallegra?  
+   **Ἰσχῡὸς γάρ ἐστι καὶ οὐ πολλάκις κάμνει.**
 
 **EN:**
 
@@ -171,9 +177,14 @@ Read this passage, then answer the questions.
 
 Μακρός ἐστιν ὁ πόνος καὶ χαλεπός. Ὁ δὲ αὐτουργὸς οὐκ ὀκνεῖ ἀλλ'ἀεὶ γεωργεῖ τὸν κλῆρον. Καλὸς γάρ ἐστιν ὁ κλῆρος καὶ πολύν σῖτον παρέχει. Χαίρει οὖν ὁ ἂνθρωπος· ἰσχῡρὸσ γάρ ἐστι καὶ οὐ πολλάκις κάμνει.
 
-1. What does our man do now? What does he always do?
-1. What does the farm provide?
-1. Why does our man rejoice?
+1. What does the man do now?  
+   **Ὁ αὐτουργὸς οὐκ ὀκνεῖ.**
+1. What does he always do?  
+   **Ἀεὶ γεωργεῖ τὸν κλῆρον.**
+1. What does the farm provide?  
+   **Ὁ κλῆρος πολὺν σῖτον παρέχει.**
+1. Why does the man rejoice?  
+   **Ἰσχῡὸς γάρ ἐστι καὶ οὐ πολλάκις κάμνει.**
 
 **DE:**
 
@@ -183,9 +194,14 @@ Lesen Sie diesen Text und beantworten Sie dann die Fragen.
 
 Μακρός ἐστιν ὁ πόνος καὶ χαλεπός. Ὁ δὲ αὐτουργὸς οὐκ ὀκνεῖ ἀλλ'ἀεὶ γεωργεῖ τὸν κλῆρον. Καλὸς γάρ ἐστιν ὁ κλῆρος καὶ πολύν σῖτον παρέχει. Χαίρει οὖν ὁ ἂνθρωπος· ἰσχῡρὸσ γάρ ἐστι καὶ οὐ πολλάκις κάμνει.
 
-1. Was macht unser Mann jetzt? Was macht er immer?
-1. Was bietet der Bauernhof?
-1. Warum jubelt unser Mann?
+1. Was macht der Mann jetzt?  
+   **Ὁ αὐτουργὸς οὐκ ὀκνεῖ.**
+1. Was macht er immer?  
+   **Ἀεὶ γεωργεῖ τὸν κλῆρον.**
+1. Was bietet der Bauernhof?  
+   **Ὁ κλῆρος πολὺν σῖτον παρέχει.**
+1. Warum freut sich der Mann?  
+   **Ἰσχῡὸς γάρ ἐστι καὶ οὐ πολλάκις κάμνει.**
 
 ---
 
@@ -196,25 +212,70 @@ Lesen Sie diesen Text und beantworten Sie dann die Fragen.
 Traducete in greco:
 
 1. Diceòpoli è un contadino.  
-   **Ὁ Δικαιόπολις ἐστιν αὐτουργός.**
-1. Lavora sempre nel campo.
-1. Spesso dunque è stanco; infatti il lavoro è lungo.
-1. Ma non indugia; infatti ama la casa.
+   **Ὁ αὐτουργὸς οὐκ ὀκνεῖ.**
+1. Lavora sempre nel campo.  
+   **Ἀεὶ πονεῖ ἐν τῷ ἀγρῷ.**
+1. Spesso dunque è stanco; infatti il lavoro è lungo.  
+   **Πολλάκις οὖν κάμνει· μακρὸς γάρ ἐστιν ὁ πόνος.**
+1. Ma non indugia; infatti ama la casa.  
+   **Άλλ'οὐκ ὀκνεῖ· φιλεῖ γὰρ τὸν οἶκνον.**
 
 **EN:**
 
 Translate to Greek:
 
-1. Diceopolis is a farmer.
+1. Diceopolis is a farmer.  
+   **Ὁ Δικαιόπολις αὐθουργός ἐστιν.**  
+   **Ὁ Δικαιόπολις ἐστιν αὐτουργός.**
 1. He always works in the field.
-1. Therefore, he is often tired; for the work is long.
-1. But he does not linger; for he loves the house.
+   **Ἀεὶ πονεῖ ἐν τῷ ἀγρῷ.**
+1. Therefore, he is often tired, for the work is long.
+   **Πολλάκις οὖν κάμνει· μακρὸς γάρ ἐστιν ὁ πόνος.**
+1. But he does not linger, for he loves the house.
+   **Άλλ'οὐκ ὀκνεῖ· φιλεῖ γὰρ τὸν οἶκνον.**
 
 **DE:**
 
 Übersetzen Sie ins Griechische:
 
-1. Dicaeopolis ist ein Landwirt.
-1. Er arbeitet immer im Außendienst.
-1. Deshalb ist er oft müde; denn die Arbeit ist lang.
-1. Aber er bleibt nicht lange; denn er liebt das Haus.
+1. Dicaeopolis ist ein Landwirt.  
+   **Ὁ Δικαιόπολις αὐθουργός ἐστιν.**  
+   **Ὁ Δικαιόπολις ἐστιν αὐτουργός.**
+1. Er arbeitet immer auf den Feldern.
+   **Ἀεὶ πονεῖ ἐν τῷ ἀγρῷ.**
+1. Deshalb ist er oft müde, denn die Arbeit ist lang.
+   **Πολλάκις οὖν κάμνει· μακρὸς γάρ ἐστιν ὁ πόνος.**
+1. Aber er bleibt nicht lange, denn er liebt das Haus.
+   **Άλλ'οὐκ ὀκνεῖ· φιλεῖ γὰρ τὸν οἶκνον.**
+
+---
+
+**IT:**
+
+Che rapporto c'è tra le parole scritte a sinistra e quelle scritte a destra?
+Dopo aver risposto a questa domanda, cercate di dedurre il significato delle uniche due parole che non conoscete ancóra, φίλος e γεωργός (tenete presente che si riferiscono tutt'e due a persone).
+
+1. οἰκεῖ - ὁ οἶκος, **lui/lei abita - casa**
+2. πονεῖ - ὁ πόνος, **lui/lei lavora - lavoro**
+3. γεωργεῖ - ὁ γεωργός, **lui/lei coltiva - contadino**
+4. φιλεῖ - ὁ φίλος, **lui/lei ama - amico**
+
+**EN:**
+
+What is the relationship between the words written on the left and those written on the right?
+After answering this question, try to deduce the meaning of the two words you do not yet know, φίλος and γεωργός (keep in mind that they both refer to people).
+
+1. οἰκεῖ - ὁ οἶκος, **he/she/it lives - house/home**
+2. πονεῖ - ὁ πόνος, **he/she/it works - work**
+3. γεωργεῖ - ὁ γεωργός, **he/she/it cultivates - farmer**
+4. φιλεῖ - ὁ φίλος, **he/she/it likes/loves - friend**
+
+**DE:**
+
+In welchem Verhältnis stehen die Wörter auf der linken Seite und die Wörter auf der rechten Seite?
+Versuchen Sie nach der Beantwortung dieser Frage, die Bedeutung der beiden Wörter zu erschließen, die Sie noch nicht kennen, nämlich φίλος und γεωργός (denken Sie daran, dass sich beide auf Personen beziehen).
+
+1. οἰκεῖ - ὁ οἶκος, **er/sie/es lebt/wohnt - Haus/Zuhause**
+2. πονεῖ - ὁ πόνος, **er/sie/es arbeitet - Arbeit**
+3. γεωργεῖ - ὁ γεωργός, **er/sie/es kultiviert - Bauer**
+4. φιλεῖ - ὁ φίλος, **er/sie/es liebt/hat gern - Freund**
