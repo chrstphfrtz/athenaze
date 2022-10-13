@@ -74,11 +74,11 @@ Lesen Sie diesen Text und beantworten Sie dann die Fragen.
 1. Dicaeopolis ist ein Landwirt.  
    **Ὁ Δικαιόπολις αὐθουργός ἐστιν.**  
    **Ὁ Δικαιόπολις ἐστιν αὐτουργός.**
-1. Er arbeitet immer auf den Feldern.
+1. Er arbeitet immer auf den Feldern.  
    **Ἀεὶ πονεῖ ἐν τῷ ἀγρῷ.**
-1. Deshalb ist er oft müde, denn die Arbeit ist lang.
+1. Deshalb ist er oft müde, denn die Arbeit ist lang.  
    **Πολλάκις οὖν κάμνει· μακρὸς γάρ ἐστιν ὁ πόνος.**
-1. Aber er bleibt nicht lange, denn er liebt das Haus.
+1. Aber er bleibt nicht lange, denn er liebt das Haus.  
    **Άλλ'οὐκ ὀκνεῖ· φιλεῖ γὰρ τὸν οἶκνον.**
 
 ---

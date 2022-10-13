@@ -73,11 +73,11 @@ Translate to Greek:
 1. Diceopolis is a farmer.  
    **Ὁ Δικαιόπολις αὐθουργός ἐστιν.**  
    **Ὁ Δικαιόπολις ἐστιν αὐτουργός.**
-1. He always works in the field.
+1. He always works in the field.  
    **Ἀεὶ πονεῖ ἐν τῷ ἀγρῷ.**
-1. Therefore, he is often tired, for the work is long.
+1. Therefore, he is often tired, for the work is long.  
    **Πολλάκις οὖν κάμνει· μακρὸς γάρ ἐστιν ὁ πόνος.**
-1. But he does not linger, for he loves the house.
+1. But he does not linger, for he loves the house.  
    **Άλλ'οὐκ ὀκνεῖ· φιλεῖ γὰρ τὸν οἶκνον.**
 
 ---
