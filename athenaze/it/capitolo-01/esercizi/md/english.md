@@ -1,4 +1,4 @@
-# Capitolo 01
+# Capitolo 01 - Exercises
 
 What Greek words from the story at the beginning of this chapter do you recognize in the following English words? Define the words, using your knowledge of the Greek.
 
@@ -89,4 +89,3 @@ After answering this question, try to deduce the meaning of the two words you do
 2. πονεῖ - ὁ πόνος, **he/she/it works - work**
 3. γεωργεῖ - ὁ γεωργός, **he/she/it cultivates - farmer**
 4. φιλεῖ - ὁ φίλος, **he/she/it likes/loves - friend**
-

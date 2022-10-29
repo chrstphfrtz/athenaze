@@ -1,4 +1,4 @@
-# Capitolo 01
+# Capitolo 01 - Aufgaben
 
 Welche der griechischen Wörter, die Sie in der Lesung zu Beginn dieses Kapitels gefunden haben, erkennen Sie in den folgenden deutschen Wörtern wieder?
 Versuchen Sie auch, eine etymologische Erklärung dieser Begriffe zu geben, indem Sie Ihre Griechischkenntnisse nutzen.
@@ -90,4 +90,3 @@ Versuchen Sie nach der Beantwortung dieser Frage, die Bedeutung der beiden Wört
 2. πονεῖ - ὁ πόνος, **er/sie/es arbeitet - Arbeit**
 3. γεωργεῖ - ὁ γεωργός, **er/sie/es kultiviert - Bauer**
 4. φιλεῖ - ὁ φίλος, **er/sie/es liebt/hat gern - Freund**
-
