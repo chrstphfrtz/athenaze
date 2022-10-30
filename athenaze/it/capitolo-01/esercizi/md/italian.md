@@ -1,4 +1,4 @@
-# Capitolo 01 - Esercizi
+# Capitolo 01 - Esercizi (IT)
 
 Tra le parole greche che avete trovato nella lettura all'inizio di questo capitolo, quali riconoscete nelle parole italiane che seguono?
 Cercate anche di dare una spiegazione etimologica di questi termini, ricorrendo alla vostra conoscenza del greco.

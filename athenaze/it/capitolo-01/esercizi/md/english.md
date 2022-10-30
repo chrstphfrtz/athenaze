@@ -1,4 +1,4 @@
-# Capitolo 01 - Exercises
+# Capitolo 01 - Esercizi (EN)
 
 What Greek words from the story at the beginning of this chapter do you recognize in the following English words? Define the words, using your knowledge of the Greek.
 

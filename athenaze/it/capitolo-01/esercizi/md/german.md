@@ -1,4 +1,4 @@
-# Capitolo 01 - Aufgaben
+# Capitolo 01 - Esercizi (DE)
 
 Welche der griechischen Wörter, die Sie in der Lesung zu Beginn dieses Kapitels gefunden haben, erkennen Sie in den folgenden deutschen Wörtern wieder?
 Versuchen Sie auch, eine etymologische Erklärung dieser Begriffe zu geben, indem Sie Ihre Griechischkenntnisse nutzen.
