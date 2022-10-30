@@ -2,7 +2,7 @@
 
 What Greek words from the story at the beginning of this chapter do you recognize in the following English words? Define the words, using your knowledge of the Greek.
 
-1. anthropology - **ὁ ἃνθρωπος** (the study of mankind)
+1. anthropology - **ὁ ἄνθρωπος** (the study of mankind)
 1. polysyllabic - **πολύς** (a word of many syllables)
 1. philosophy - **φιλεῖ** (love of wisdom)
 1. microscope - **μῑκρός** (an instrument for oberserving small things)

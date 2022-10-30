@@ -3,7 +3,7 @@
 Tra le parole greche che avete trovato nella lettura all'inizio di questo capitolo, quali riconoscete nelle parole italiane che seguono?
 Cercate anche di dare una spiegazione etimologica di questi termini, ricorrendo alla vostra conoscenza del greco.
 
-1. antropologia - **ὁ ἃνθρωπος** (lo studio dell'umanità)
+1. antropologia - **ὁ ἄνθρωπος** (lo studio dell'umanità)
 1. polisillabo - **πολύς** (una parola di molte sillabe)
 1. filosofia - **φιλεῖ** (amore per la sapienza)
 1. microscopia - **μῑκρός** (uno strumento per osservare le cose piccole)
