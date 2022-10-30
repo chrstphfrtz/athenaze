@@ -1,9 +1,20 @@
 #!/bin/bash
 
-esercizi=(athenaze/it/capitolo-01/esercizi)
-lexica=(athenaze/it/capitolo-01/lexicon)
-meletemata=(meletemata/capitolo-01)
-langs=(german english italian)
+esercizi=(
+  athenaze/it/capitolo-01/esercizi
+)
+lexica=(
+  athenaze/it/capitolo-01/lexicon
+  athenaze/it/capitolo-02/lexicon
+)
+meletemata=(
+  meletemata/capitolo-01
+)
+langs=(
+  german
+  english
+  italian
+)
 
 convert() {
 	local pdf_folder="$1/pdf"
@@ -12,7 +23,7 @@ convert() {
 	if ! mkdir "$pdf_folder" >/dev/null 2>&1; then
 		printf "SKIP: Create pdf folder %s - it most likely exists already\n" "$pdf_folder"
 	else
-		printf: "OK: Create pdf folder %s\n" "$pdf_folder"
+		printf "OK: Create pdf folder %s\n" "$pdf_folder"
 	fi
 
 	for lang in "${langs[@]}"; do
@@ -40,6 +51,7 @@ check_cmd() {
 
 main() {
 
+  printf "INFO: Make sure pandoc and MesloLGS NF font are installed, otherwise PDF files cannot be generated.\n"
 	need_cmd pandoc
 
 	for esercizio in "${esercizi[@]}"; do
