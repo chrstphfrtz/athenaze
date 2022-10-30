@@ -1,9 +1,9 @@
-# Capitolo 01
+# Capitolo 01 - Esercizi (IT)
 
 Tra le parole greche che avete trovato nella lettura all'inizio di questo capitolo, quali riconoscete nelle parole italiane che seguono?
 Cercate anche di dare una spiegazione etimologica di questi termini, ricorrendo alla vostra conoscenza del greco.
 
-1. antropologia - **ὁ ἃνθρωπος** (lo studio dell'umanità)
+1. antropologia - **ὁ ἄνθρωπος** (lo studio dell'umanità)
 1. polisillabo - **πολύς** (una parola di molte sillabe)
 1. filosofia - **φιλεῖ** (amore per la sapienza)
 1. microscopia - **μῑκρός** (uno strumento per osservare le cose piccole)
@@ -90,4 +90,3 @@ Dopo aver risposto a questa domanda, cercate di dedurre il significato delle uni
 2. πονεῖ - ὁ πόνος, **lui/lei lavora - lavoro**
 3. γεωργεῖ - ὁ γεωργός, **lui/lei coltiva - contadino**
 4. φιλεῖ - ὁ φίλος, **lui/lei ama - amico**
-

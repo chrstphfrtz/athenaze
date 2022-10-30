@@ -1,9 +1,9 @@
-# Capitolo 01
+# Capitolo 01 - Esercizi (DE)
 
 Welche der griechischen Wörter, die Sie in der Lesung zu Beginn dieses Kapitels gefunden haben, erkennen Sie in den folgenden deutschen Wörtern wieder?
 Versuchen Sie auch, eine etymologische Erklärung dieser Begriffe zu geben, indem Sie Ihre Griechischkenntnisse nutzen.
 
-1. Anthropologie - **ὁ ἃνθρωπος** (Lehre vom Menschen)
+1. Anthropologie - **ὁ ἄνθρωπος** (Lehre vom Menschen)
 1. Polygon - **πολύς** (Geometrische Objekt mit vielen Ecken)
 1. Philosophie - **φιλεῖ** (Liebe zur Weisheit)
 1. Mikroskop - **μῑκρός** (ein Instrument zur Beobachtung kleiner Dinge)
@@ -90,4 +90,3 @@ Versuchen Sie nach der Beantwortung dieser Frage, die Bedeutung der beiden Wört
 2. πονεῖ - ὁ πόνος, **er/sie/es arbeitet - Arbeit**
 3. γεωργεῖ - ὁ γεωργός, **er/sie/es kultiviert - Bauer**
 4. φιλεῖ - ὁ φίλος, **er/sie/es liebt/hat gern - Freund**
-
